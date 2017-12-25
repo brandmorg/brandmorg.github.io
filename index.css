@@ -1,0 +1,42 @@
+    .wrap {
+    width: 100%;
+    overflow: auto;
+    }
+
+    body {
+    font-family: Calibri;
+    }
+
+    h1, h2, h3, h4 {
+        margin: 0;
+    }
+    
+    .fleft {
+        float: left; 
+        width: 45%;
+        height: 100vh;   
+    }
+    
+    .fright {
+        float: right;
+        width: 53%;
+        height: 100vh;
+    }
+
+    ul {
+        display: inline-block;
+        text-align:left;
+    }
+    
+    a {
+        color: blueviolet;
+        text-decoration: none;
+       }
+
+.fleft h1{
+        color: white;
+    }
+
+.fleft h1{
+        color: black;
+    }
