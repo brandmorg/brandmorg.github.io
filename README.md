@@ -1,6 +1,6 @@
 # http://brandmorg.github.io
 
-The purpose of this repository is to have a history of my own personal website development. This is also to show me how much I've grown during my time developing this website using HTML/CSS as I've never used either of those before this.
+•	Using tutorials found on w3schools.com, I used HTML and CSS to develop a professional online resume, allowing me to create web presence to present my educational and career history, as well as a personal portfolio.
 
 24 JAN 2017
 
